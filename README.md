@@ -1,0 +1,1 @@
+This repository contains the implementation of a pipelined RISC-V CPU in Scala using Chisel. The project features forwarding, branching, and flushing logic, as well as a hazard detection unit, to optimize performance and ensure correct execution of instructions.
